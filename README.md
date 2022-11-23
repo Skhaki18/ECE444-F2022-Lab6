@@ -12,15 +12,15 @@ In this file, I thoroughly test the course API including the pre-requisite check
 # Section 2: Pros and Cons
 
 Pros:
-- Forces Modular coding style ensuring an independent feature style of developement which is good for no single point of failure systems
+- Forces Modular coding style ensuring an independent feature style of development which is good for no single point of failure systems
 - Code documentation is dramatically improved
-- Allows code developement tasks to be better subdivided amongst teams
-- Inidivdual features can be tested independentely and decreasing the necessary developement time and increasing overall test coverage
+- Allows code development tasks to be better subdivided among teams
+- Individual features can be tested independently and decreasing the necessary development time and increasing overall test coverage
 - Enables small mistakes to be caught quickly and efficiently
 
 Cons:
 - Increases time to completion of every feature
-- Testing needs to be adapted if subsequent features are built into existing codebase
+- Testing needs to be adapted if subsequent features are built into the existing codebase
 - Large suite of tests to be managed and requires additional work to keep them up to date
-- Must be uniform accross the entire team and difficult to apply to legacy codebases
+- Must be uniform across the entire team and difficult to apply to legacy codebases
 - Very difficult on team morale and motivation
